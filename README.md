@@ -1,4 +1,4 @@
-WordCloud Project
+#WordCloud Project
 Introduction
 WordCloud Project is a Python-based project that generates a visual representation of the most frequently occurring words in a given text. This project uses the Python programming language and various libraries such as matplotlib, numpy, wordcloud and PIL to create an image of the word cloud.
 Installation
